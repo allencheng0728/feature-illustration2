@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ABC111 Driver Management System_新增更數",
+  "description": "A comprehensive driver record management and scheduling system featuring smart document extraction and a custom shift calendar.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
